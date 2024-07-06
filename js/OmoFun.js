@@ -7,7 +7,7 @@ var rule = {
 	url: '/index.php/api/vod#type=fyclass&page=fypage',
     class_name:'新旧番剧&剧场版',
     class_url:'2&1',
-    detailUrl:'/bangumi/fyid.html',
+    detailUrl:'/vod/detail/id/fyid.html',
     推荐:'.border-box .public-list-box;a&&title;.lazy&&data-original;.public-list-prb&&Text;a&&href',
     double: false, // 推荐内容是否双层定位
 }
